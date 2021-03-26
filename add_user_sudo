@@ -1,0 +1,5 @@
+su -
+#password
+usermod -aG sudo #user
+reboot
+
